@@ -1,8 +1,6 @@
 # JavascriptExpert
 Repositório pra armazenar os testes demos do curso Javascript Expert, do Erick Wendel.
 
-# Parte 01
-
 ## Demo 01 - Referência vs Valor
 Estou devendo a descrição.
 
@@ -13,9 +11,7 @@ Estou devendo a descrição.
 Prototype chain é o processo de pesquisa que navega entre todas a instâncias que foram herdadas até o último prototype.
 Neste tópico o tema prototype chain é abordado na prática.
 
-# Parte 02
-
-## Demo 01 - Contextos
+## Demo 04 - Contextos
 Estudo das diferenças entre chamadas .bind, .call e .apply em funções; e como chamadas herdam contextos de outras chamadas.
 
 
