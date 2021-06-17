@@ -13,6 +13,3 @@ Neste tópico o tema prototype chain é abordado na prática.
 
 ## Demo 04 - Contextos
 Estudo das diferenças entre chamadas .bind, .call e .apply em funções; e como chamadas herdam contextos de outras chamadas.
-
-
-
